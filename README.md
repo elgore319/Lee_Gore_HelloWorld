@@ -27,7 +27,7 @@ Overload greet() to allow a custom message
 Demonstrate all features in main()
 
 (Output)
-
+```
 public class HelloWorld { 
     private String name;
     private int age;
@@ -67,6 +67,7 @@ public class HelloWorld {
         student2.introduce();
     } 
 }
+```
 
 Explain what you kept or changed and why
 I got rid of one of the constructor methods because only one is neccessary for the actions that this code is trying to accomplish.
