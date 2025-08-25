@@ -15,6 +15,7 @@ Level 2 - AI Reflection
 Include your AI prompt and AI output
 
 (Prompt)
+
 Add private int age field
 
 Create a second constructor: (String name, int age)
@@ -26,6 +27,7 @@ Overload greet() to allow a custom message
 Demonstrate all features in main()
 
 (Output)
+
 public class HelloWorld { 
     private String name;
     private int age;
