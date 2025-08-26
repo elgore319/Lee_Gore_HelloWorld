@@ -2,15 +2,15 @@ Level 1 - AI Reflection (150–250 words)
 
 What AI tools did you use?
 
-I used the github copilot extension in vscode
+-I used the github copilot extension in vscode
 
 What was correct or incorrect?
 
-Nothing was incorrect
+-Nothing was incorrect
 
 What changes did you make and why?
 
-I copied the code and pasted it into the file, but it did not have any spacing.  I spaced the different lines of code to make it more comprehensable when reading
+-I copied the code and pasted it into the file, but it did not have any spacing.  I spaced the different lines of code to make it more comprehensable when reading
 
 
 Level 2 - AI Reflection
@@ -74,20 +74,20 @@ public class HelloWorld {
 
 Explain what you kept or changed and why
 
-I got rid of one of the constructor methods because only one is neccessary for the actions that this code is trying to accomplish.
+-I got rid of one of the constructor methods because only one is neccessary for the actions that this code is trying to accomplish.
 
-I also got rid of the student2 object as it is unnecessary for getting the desired output. Since I did this I moved the line "student2.greet("Good morning");" to the student object.
+-I also got rid of the student2 object as it is unnecessary for getting the desired output. Since I did this I moved the line "student2.greet("Good morning");" to the student object.
 
 
 Level 3 - AI Reflection
 
 What did the AI get wrong in debugging?
 
-The scanner object is never closed
+-The scanner object is never closed
 
 How did you fix or improve it?
 
-try (Scanner scanner = new Scanner(System.in))
+- try (Scanner scanner = new Scanner(System.in))
 
 (It also continues to make unnecessary objects for demonstrating the code, but I just deleted these)
 
